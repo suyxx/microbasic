@@ -1,8 +1,8 @@
 # microbasic
-##This project shows implementation of microservices using node and react
+## This project shows implementation of microservices using node and react
 
 
-###Docker Commands:
+### Docker Commands:
 docker pull <image_name>: Pulls an image or a repository from a registry.
 
 docker build <path_to_Dockerfile>: Builds an image from a Dockerfile.
@@ -23,7 +23,7 @@ docker rmi <image_id>: Removes an image.
 
 docker exec -it <container_id> /bin/bash: Executes a new command inside a running container.
 
-###Kubernetes Commands (kubectl):
+### Kubernetes Commands (kubectl):
 kubectl get pods: Lists all pods in the current namespace.
 
 kubectl get deployments: Lists all deployments in the current namespace.
